@@ -1,3302 +1,3206 @@
 [
-  {
-    "ruolo": "A",
-    "nome": "IMMOBILE",
-    "squadra": "Lazio",
-    "quotazione": 43
-  },
-  {
-    "ruolo": "A",
-    "nome": "ZAPATA D.",
-    "squadra": "Atalanta",
-    "quotazione": 39
-  },
-  {
-    "ruolo": "A",
-    "nome": "VLAHOVIC",
-    "squadra": "Fiorentina",
-    "quotazione": 36
-  },
-  {
-    "ruolo": "A",
-    "nome": "DZEKO",
-    "squadra": "Inter",
-    "quotazione": 34
-  },
-  {
-    "ruolo": "A",
-    "nome": "BERARDI",
-    "squadra": "Sassuolo",
-    "quotazione": 34
-  },
-  {
-    "ruolo": "A",
-    "nome": "OSIMHEN",
-    "squadra": "Napoli",
-    "quotazione": 33
-  },
-  {
-    "ruolo": "A",
-    "nome": "JOAO PEDRO",
-    "squadra": "Cagliari",
-    "quotazione": 32
-  },
-  {
-    "ruolo": "A",
-    "nome": "MARTINEZ L.",
-    "squadra": "Inter",
-    "quotazione": 31
-  },
-  {
-    "ruolo": "A",
-    "nome": "IBRAHIMOVIC",
-    "squadra": "Milan",
-    "quotazione": 30
-  },
-  {
-    "ruolo": "A",
-    "nome": "DYBALA",
-    "squadra": "Juventus",
-    "quotazione": 29
-  },
-  {
-    "ruolo": "A",
-    "nome": "DESTRO",
-    "squadra": "Genoa",
-    "quotazione": 27
-  },
-  {
-    "ruolo": "A",
-    "nome": "ARNAUTOVIC",
-    "squadra": "Bologna",
-    "quotazione": 26
-  },
-  {
-    "ruolo": "A",
-    "nome": "MURIEL",
-    "squadra": "Atalanta",
-    "quotazione": 25
-  },
-  {
-    "ruolo": "A",
-    "nome": "BARROW",
-    "squadra": "Bologna",
-    "quotazione": 24
-  },
-  {
-    "ruolo": "A",
-    "nome": "SIMEONE",
-    "squadra": "Verona",
-    "quotazione": 24
-  },
-  {
-    "ruolo": "A",
-    "nome": "GIROUD",
-    "squadra": "Milan",
-    "quotazione": 24
-  },
-  {
-    "ruolo": "A",
-    "nome": "RAFAEL LEAO",
-    "squadra": "Milan",
-    "quotazione": 24
-  },
-  {
-    "ruolo": "A",
-    "nome": "ABRAHAM",
-    "squadra": "Roma",
-    "quotazione": 24
-  },
-  {
-    "ruolo": "A",
-    "nome": "INSIGNE",
-    "squadra": "Napoli",
-    "quotazione": 23
-  },
-  {
-    "ruolo": "A",
-    "nome": "ILICIC",
-    "squadra": "Atalanta",
-    "quotazione": 22
-  },
-  {
-    "ruolo": "A",
-    "nome": "CORREA",
-    "squadra": "Inter",
-    "quotazione": 22
-  },
-  {
-    "ruolo": "A",
-    "nome": "VERDE",
-    "squadra": "Spezia",
-    "quotazione": 22
-  },
-  {
-    "ruolo": "A",
-    "nome": "REBIC",
-    "squadra": "Milan",
-    "quotazione": 21
-  },
-  {
-    "ruolo": "A",
-    "nome": "LOZANO",
-    "squadra": "Napoli",
-    "quotazione": 21
-  },
-  {
-    "ruolo": "A",
-    "nome": "CAPUTO",
-    "squadra": "Sampdoria",
-    "quotazione": 21
-  },
-  {
-    "ruolo": "A",
-    "nome": "CAPRARI",
-    "squadra": "Verona",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "A",
-    "nome": "BELOTTI",
-    "squadra": "Torino",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "A",
-    "nome": "DEULOFEU",
-    "squadra": "Udinese",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "A",
-    "nome": "PEDRO",
-    "squadra": "Lazio",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "A",
-    "nome": "KEAN",
-    "squadra": "Juventus",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "A",
-    "nome": "POLITANO",
-    "squadra": "Napoli",
-    "quotazione": 18
-  },
-  {
-    "ruolo": "A",
-    "nome": "GONZALEZ N.",
-    "squadra": "Fiorentina",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "A",
-    "nome": "PINAMONTI",
-    "squadra": "Empoli",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "A",
-    "nome": "OKEREKE",
-    "squadra": "Venezia",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "A",
-    "nome": "MORATA",
-    "squadra": "Juventus",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "A",
-    "nome": "SANABRIA",
-    "squadra": "Torino",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "A",
-    "nome": "BETO",
-    "squadra": "Udinese",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "A",
-    "nome": "CAICEDO",
-    "squadra": "Genoa",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "A",
-    "nome": "MERTENS",
-    "squadra": "Napoli",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "A",
-    "nome": "EL SHAARAWY",
-    "squadra": "Roma",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "A",
-    "nome": "QUAGLIARELLA",
-    "squadra": "Sampdoria",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "A",
-    "nome": "SCAMACCA",
-    "squadra": "Sassuolo",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "A",
-    "nome": "RIBERY",
-    "squadra": "Salernitana",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "A",
-    "nome": "SHOMURODOV",
-    "squadra": "Roma",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "A",
-    "nome": "SANCHEZ",
-    "squadra": "Inter",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "A",
-    "nome": "RASPADORI",
-    "squadra": "Sassuolo",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "A",
-    "nome": "KALINIC",
-    "squadra": "Verona",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "A",
-    "nome": "KEITA B.",
-    "squadra": "Cagliari",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "A",
-    "nome": "BONAZZOLI",
-    "squadra": "Salernitana",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "A",
-    "nome": "BOGA",
-    "squadra": "Sassuolo",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "A",
-    "nome": "BREKALO",
-    "squadra": "Torino",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "A",
-    "nome": "SIMY",
-    "squadra": "Salernitana",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "A",
-    "nome": "DI FRANCESCO F.",
-    "squadra": "Empoli",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "A",
-    "nome": "PAVOLETTI",
-    "squadra": "Cagliari",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "A",
-    "nome": "MANCUSO",
-    "squadra": "Empoli",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "A",
-    "nome": "MAYORAL",
-    "squadra": "Roma",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "A",
-    "nome": "NZOLA",
-    "squadra": "Spezia",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "A",
-    "nome": "PICCOLI",
-    "squadra": "Atalanta",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "A",
-    "nome": "PETAGNA",
-    "squadra": "Napoli",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "A",
-    "nome": "GYASI",
-    "squadra": "Spezia",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "A",
-    "nome": "PUSSETTO",
-    "squadra": "Udinese",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "A",
-    "nome": "CUTRONE",
-    "squadra": "Empoli",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "A",
-    "nome": "HENRY",
-    "squadra": "Venezia",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "A",
-    "nome": "DJURIC",
-    "squadra": "Salernitana",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "A",
-    "nome": "GABBIADINI",
-    "squadra": "Sampdoria",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "A",
-    "nome": "ANTISTE",
-    "squadra": "Spezia",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "A",
-    "nome": "SANSONE",
-    "squadra": "Bologna",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "A",
-    "nome": "PJACA",
-    "squadra": "Torino",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "A",
-    "nome": "CARLES PEREZ",
-    "squadra": "Roma",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "A",
-    "nome": "SUCCESS",
-    "squadra": "Udinese",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "A",
-    "nome": "GONDO",
-    "squadra": "Salernitana",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "A",
-    "nome": "DEFREL",
-    "squadra": "Sassuolo",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "A",
-    "nome": "PANDEV",
-    "squadra": "Genoa",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "A",
-    "nome": "STRELEC",
-    "squadra": "Spezia",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "A",
-    "nome": "KALLON",
-    "squadra": "Genoa",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "A",
-    "nome": "LASAGNA",
-    "squadra": "Verona",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "A",
-    "nome": "ZAZA",
-    "squadra": "Torino",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "A",
-    "nome": "JOHNSEN",
-    "squadra": "Venezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "A",
-    "nome": "BIANCHI F.",
-    "squadra": "Genoa",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "A",
-    "nome": "SALCEDO E.",
-    "squadra": "Spezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "A",
-    "nome": "MORO",
-    "squadra": "Lazio",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "A",
-    "nome": "FORESTIERI",
-    "squadra": "Udinese",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "A",
-    "nome": "FORTE",
-    "squadra": "Venezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "A",
-    "nome": "EKUBAN",
-    "squadra": "Genoa",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "A",
-    "nome": "MANAJ",
-    "squadra": "Spezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "A",
-    "nome": "COLLEY E.",
-    "squadra": "Spezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "FARIAS",
-    "squadra": "Cagliari",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "LA MANTIA",
-    "squadra": "Empoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "KOKORIN",
-    "squadra": "Fiorentina",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "MURIQI",
-    "squadra": "Lazio",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "OUNAS",
-    "squadra": "Napoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "TORREGROSSA",
-    "squadra": "Sampdoria",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "NESTOROVSKI",
-    "squadra": "Udinese",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "A",
-    "nome": "SATRIANO",
-    "squadra": "Inter",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "A",
-    "nome": "KAIO JORGE",
-    "squadra": "Juventus",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "A",
-    "nome": "PELLEGRI",
-    "squadra": "Milan",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "A",
-    "nome": "PODGOREANU",
-    "squadra": "Spezia",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "A",
-    "nome": "AFENA-GYAN",
-    "squadra": "Roma",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "A",
-    "nome": "SANTANDER",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "VAN HOOIJDONK",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "MUNTEANU",
-    "squadra": "Fiorentina",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "BUKSA",
-    "squadra": "Genoa",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "EDERA",
-    "squadra": "Torino",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "WARMING",
-    "squadra": "Torino",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "BOCALON",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "CANCELLIERI",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "CETER",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "VERGANI",
-    "squadra": "Salernitana",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "CANGIANO",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "A",
-    "nome": "RAGUSA",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "PELLEGRINI LO.",
-    "squadra": "Roma",
-    "quotazione": 29
-  },
-  {
-    "ruolo": "C",
-    "nome": "MILINKOVIC-SAVIC",
-    "squadra": "Lazio",
-    "quotazione": 28
-  },
-  {
-    "ruolo": "C",
-    "nome": "RUIZ",
-    "squadra": "Napoli",
-    "quotazione": 26
-  },
-  {
-    "ruolo": "C",
-    "nome": "CANDREVA",
-    "squadra": "Sampdoria",
-    "quotazione": 26
-  },
-  {
-    "ruolo": "C",
-    "nome": "BARELLA",
-    "squadra": "Inter",
-    "quotazione": 25
-  },
-  {
-    "ruolo": "C",
-    "nome": "BARAK",
-    "squadra": "Verona",
-    "quotazione": 25
-  },
-  {
-    "ruolo": "C",
-    "nome": "FELIPE ANDERSON",
-    "squadra": "Lazio",
-    "quotazione": 24
-  },
-  {
-    "ruolo": "C",
-    "nome": "VERETOUT",
-    "squadra": "Roma",
-    "quotazione": 23
-  },
-  {
-    "ruolo": "C",
-    "nome": "PASALIC",
-    "squadra": "Atalanta",
-    "quotazione": 21
-  },
-  {
-    "ruolo": "C",
-    "nome": "ZIELINSKI",
-    "squadra": "Napoli",
-    "quotazione": 21
-  },
-  {
-    "ruolo": "C",
-    "nome": "PERISIC",
-    "squadra": "Inter",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "C",
-    "nome": "CHIESA",
-    "squadra": "Juventus",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "C",
-    "nome": "LUIS ALBERTO",
-    "squadra": "Lazio",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "C",
-    "nome": "MKHITARYAN",
-    "squadra": "Roma",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "C",
-    "nome": "MALINOVSKYI",
-    "squadra": "Atalanta",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "C",
-    "nome": "LOCATELLI",
-    "squadra": "Juventus",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "C",
-    "nome": "ARAMU",
-    "squadra": "Venezia",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "C",
-    "nome": "KESSIE'",
-    "squadra": "Milan",
-    "quotazione": 18
-  },
-  {
-    "ruolo": "C",
-    "nome": "DJURICIC",
-    "squadra": "Sassuolo",
-    "quotazione": 18
-  },
-  {
-    "ruolo": "C",
-    "nome": "PEREYRA",
-    "squadra": "Udinese",
-    "quotazione": 18
-  },
-  {
-    "ruolo": "C",
-    "nome": "CALHANOGLU",
-    "squadra": "Inter",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "C",
-    "nome": "DIAZ B.",
-    "squadra": "Milan",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "C",
-    "nome": "ZACCAGNI",
-    "squadra": "Lazio",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "C",
-    "nome": "BENNACER",
-    "squadra": "Milan",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "C",
-    "nome": "TONALI",
-    "squadra": "Milan",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "C",
-    "nome": "BAJRAMI",
-    "squadra": "Empoli",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "BONAVENTURA",
-    "squadra": "Fiorentina",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "SAPONARA",
-    "squadra": "Fiorentina",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "POBEGA",
-    "squadra": "Torino",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "FRATTESI",
-    "squadra": "Sassuolo",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "TRAORE' HJ.",
-    "squadra": "Sassuolo",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "MAGGIORE",
-    "squadra": "Spezia",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "ILIC",
-    "squadra": "Verona",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "C",
-    "nome": "SVANBERG",
-    "squadra": "Bologna",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "C",
-    "nome": "ROVELLA",
-    "squadra": "Genoa",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "C",
-    "nome": "KULUSEVSKI",
-    "squadra": "Juventus",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "C",
-    "nome": "MCKENNIE",
-    "squadra": "Juventus",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "C",
-    "nome": "SAELEMAEKERS",
-    "squadra": "Milan",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "C",
-    "nome": "SORIANO",
-    "squadra": "Bologna",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "MARIN",
-    "squadra": "Cagliari",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "STULAC",
-    "squadra": "Empoli",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "BROZOVIC",
-    "squadra": "Inter",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "CATALDI",
-    "squadra": "Lazio",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "ELMAS",
-    "squadra": "Napoli",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "LUKIC",
-    "squadra": "Torino",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "LAZOVIC",
-    "squadra": "Verona",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "BUSIO",
-    "squadra": "Venezia",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "KOOPMEINERS",
-    "squadra": "Atalanta",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "ZAMBO ANGUISSA",
-    "squadra": "Napoli",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "PRAET",
-    "squadra": "Torino",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "C",
-    "nome": "KOVALENKO",
-    "squadra": "Spezia",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "C",
-    "nome": "VIDAL",
-    "squadra": "Inter",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "C",
-    "nome": "ZANIOLO",
-    "squadra": "Roma",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "C",
-    "nome": "THORSBY",
-    "squadra": "Sampdoria",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "C",
-    "nome": "LOPEZ M.",
-    "squadra": "Sassuolo",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "C",
-    "nome": "BANDINELLI",
-    "squadra": "Empoli",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "C",
-    "nome": "ZURKOWSKI",
-    "squadra": "Empoli",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "C",
-    "nome": "VECINO",
-    "squadra": "Inter",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "C",
-    "nome": "COULIBALY M.",
-    "squadra": "Salernitana",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "C",
-    "nome": "TORREIRA",
-    "squadra": "Fiorentina",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "C",
-    "nome": "FREULER",
-    "squadra": "Atalanta",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "DOMINGUEZ",
-    "squadra": "Bologna",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "ORSOLINI",
-    "squadra": "Bologna",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "NANDEZ",
-    "squadra": "Cagliari",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "RICCI S.",
-    "squadra": "Empoli",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "CASTROVILLI",
-    "squadra": "Fiorentina",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "KRUNIC",
-    "squadra": "Milan",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "CRISTANTE",
-    "squadra": "Roma",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "VERDI",
-    "squadra": "Torino",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "HENDERSON L.",
-    "squadra": "Empoli",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "C",
-    "nome": "DE ROON",
-    "squadra": "Atalanta",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "MIRANCHUK",
-    "squadra": "Atalanta",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "PESSINA",
-    "squadra": "Atalanta",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "SKOV OLSEN",
-    "squadra": "Bologna",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "HAAS",
-    "squadra": "Empoli",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "SOTTIL",
-    "squadra": "Fiorentina",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "BESSA",
-    "squadra": "Verona",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "TAMEZE",
-    "squadra": "Verona",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "C",
-    "nome": "DEIOLA",
-    "squadra": "Cagliari",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "DUNCAN",
-    "squadra": "Fiorentina",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "BENTANCUR",
-    "squadra": "Juventus",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "OBI",
-    "squadra": "Salernitana",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "SCHIAVONE",
-    "squadra": "Salernitana",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "DAMSGAARD",
-    "squadra": "Sampdoria",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "BOURABIA",
-    "squadra": "Spezia",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "MANDRAGORA",
-    "squadra": "Torino",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "CRNIGOJ",
-    "squadra": "Venezia",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "C",
-    "nome": "CALLEJON",
-    "squadra": "Fiorentina",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "GAGLIARDINI",
-    "squadra": "Inter",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "MAKENGO",
-    "squadra": "Udinese",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "MIGUEL VELOSO",
-    "squadra": "Verona",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "SAMARDZIC",
-    "squadra": "Udinese",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "KASTANOS",
-    "squadra": "Salernitana",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "KIYINE",
-    "squadra": "Venezia",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "MESSIAS",
-    "squadra": "Milan",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "C",
-    "nome": "VIGNATO",
-    "squadra": "Bologna",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "STROOTMAN",
-    "squadra": "Cagliari",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "BADELJ",
-    "squadra": "Genoa",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "RABIOT",
-    "squadra": "Juventus",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "CASTILLEJO",
-    "squadra": "Milan",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "MALDINI",
-    "squadra": "Milan",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "LINETTY",
-    "squadra": "Torino",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "WALACE",
-    "squadra": "Udinese",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "COULIBALY L.",
-    "squadra": "Salernitana",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "BASIC",
-    "squadra": "Lazio",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "C",
-    "nome": "MEDEL",
-    "squadra": "Bologna",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "PEREIRO",
-    "squadra": "Cagliari",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "AMRABAT",
-    "squadra": "Fiorentina",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "MALEH",
-    "squadra": "Fiorentina",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "PULGAR",
-    "squadra": "Fiorentina",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "BEHRAMI",
-    "squadra": "Genoa",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "BERNARDESCHI",
-    "squadra": "Juventus",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "LUCAS LEIVA",
-    "squadra": "Lazio",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "DEMME",
-    "squadra": "Napoli",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "DI TACCHIO",
-    "squadra": "Salernitana",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "ADRIEN SILVA",
-    "squadra": "Sampdoria",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "EKDAL",
-    "squadra": "Sampdoria",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "VERRE",
-    "squadra": "Sampdoria",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "ARSLAN",
-    "squadra": "Udinese",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "HEYMANS",
-    "squadra": "Venezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "PERETZ",
-    "squadra": "Venezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "SIGURDSSON A.",
-    "squadra": "Venezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "MATHEUS HENRIQUE",
-    "squadra": "Sassuolo",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "TOURE' A.",
-    "squadra": "Genoa",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "GALDAMES",
-    "squadra": "Genoa",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "C",
-    "nome": "SCHOUTEN",
-    "squadra": "Bologna",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "SENSI",
-    "squadra": "Inter",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "RAMSEY",
-    "squadra": "Juventus",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "LOBOTKA",
-    "squadra": "Napoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "ASKILDSEN",
-    "squadra": "Sampdoria",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "RINCON",
-    "squadra": "Torino",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "FIORDILINO",
-    "squadra": "Venezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "VACCA",
-    "squadra": "Venezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "HERNANI",
-    "squadra": "Genoa",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "GRASSI",
-    "squadra": "Cagliari",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "BAKAYOKO",
-    "squadra": "Milan",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "C",
-    "nome": "ROG",
-    "squadra": "Cagliari",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "BENASSI",
-    "squadra": "Fiorentina",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "AGUDELO",
-    "squadra": "Spezia",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "MELEGONI",
-    "squadra": "Genoa",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "STURARO",
-    "squadra": "Genoa",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "ARTHUR",
-    "squadra": "Juventus",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "AKPA AKPRO",
-    "squadra": "Lazio",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "CIERVO",
-    "squadra": "Sampdoria",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "CAPEZZI",
-    "squadra": "Salernitana",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "MAGNANELLI",
-    "squadra": "Sassuolo",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "BASELLI",
-    "squadra": "Torino",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "JAJALO",
-    "squadra": "Udinese",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "HONGLA",
-    "squadra": "Verona",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "HARROUI",
-    "squadra": "Sassuolo",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "PORTANOVA",
-    "squadra": "Genoa",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "VIOLA",
-    "squadra": "Bologna",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "C",
-    "nome": "LADINETTI",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "DAMIANI",
-    "squadra": "Empoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "CASSATA",
-    "squadra": "Genoa",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "ESCALANTE",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "DARBOE",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "DIAWARA",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "VILLAR",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "ZALEWSKI",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "VIEIRA",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "OBIANG",
-    "squadra": "Sassuolo",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "LEO' SENA",
-    "squadra": "Spezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "PALUMBO",
-    "squadra": "Juventus",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "BJARKASON",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "DEZI",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "PECILE",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "TESSMANN",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "ROMERO L.",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "BIANCO",
-    "squadra": "Fiorentina",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "YEPES",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "SHER",
-    "squadra": "Spezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "ANDERSON A.",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "BOVE",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "KINGSLEY",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "IHATTAREN",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "OLIVA",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "ASLLANI",
-    "squadra": "Empoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "NGUIAMBA",
-    "squadra": "Spezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "C",
-    "nome": "KONE B.",
-    "squadra": "Torino",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "KOULIBALY",
-    "squadra": "Napoli",
-    "quotazione": 20
-  },
-  {
-    "ruolo": "D",
-    "nome": "CRISCITO",
-    "squadra": "Genoa",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "D",
-    "nome": "FARAONI",
-    "squadra": "Verona",
-    "quotazione": 19
-  },
-  {
-    "ruolo": "D",
-    "nome": "CALABRIA",
-    "squadra": "Milan",
-    "quotazione": 18
-  },
-  {
-    "ruolo": "D",
-    "nome": "HERNANDEZ T.",
-    "squadra": "Milan",
-    "quotazione": 18
-  },
-  {
-    "ruolo": "D",
-    "nome": "DE SILVESTRI",
-    "squadra": "Bologna",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "D",
-    "nome": "SKRINIAR",
-    "squadra": "Inter",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "D",
-    "nome": "ZAPPACOSTA",
-    "squadra": "Atalanta",
-    "quotazione": 17
-  },
-  {
-    "ruolo": "D",
-    "nome": "GOSENS",
-    "squadra": "Atalanta",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "D",
-    "nome": "RRAHMANI",
-    "squadra": "Napoli",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "D",
-    "nome": "BREMER",
-    "squadra": "Torino",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "D",
-    "nome": "SINGO",
-    "squadra": "Torino",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "D",
-    "nome": "CUADRADO",
-    "squadra": "Juventus",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "D",
-    "nome": "DARMIAN",
-    "squadra": "Inter",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "D",
-    "nome": "DE LIGT",
-    "squadra": "Juventus",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "D",
-    "nome": "ANSALDI",
-    "squadra": "Torino",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "D",
-    "nome": "THEATE",
-    "squadra": "Bologna",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "D",
-    "nome": "DIMARCO",
-    "squadra": "Inter",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "BONUCCI",
-    "squadra": "Juventus",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "TOMORI",
-    "squadra": "Milan",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "DI LORENZO",
-    "squadra": "Napoli",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "YOSHIDA",
-    "squadra": "Sampdoria",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "BASTONI S.",
-    "squadra": "Spezia",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "MOLINA N.",
-    "squadra": "Udinese",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "D",
-    "nome": "MILENKOVIC",
-    "squadra": "Fiorentina",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "D",
-    "nome": "IBANEZ",
-    "squadra": "Roma",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "D",
-    "nome": "CAMBIASO",
-    "squadra": "Genoa",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "D",
-    "nome": "KJAER",
-    "squadra": "Milan",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "D",
-    "nome": "KARSDORP",
-    "squadra": "Roma",
-    "quotazione": 11
-  },
-  {
-    "ruolo": "D",
-    "nome": "CEPPITELLI",
-    "squadra": "Cagliari",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "BIRAGHI",
-    "squadra": "Fiorentina",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "BASTONI",
-    "squadra": "Inter",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "FARES",
-    "squadra": "Genoa",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "MARIO RUI",
-    "squadra": "Napoli",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "AUGELLO",
-    "squadra": "Sampdoria",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "NUYTINCK",
-    "squadra": "Udinese",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "CHIELLINI",
-    "squadra": "Juventus",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "DUMFRIES",
-    "squadra": "Inter",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "D",
-    "nome": "TOLOI",
-    "squadra": "Atalanta",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "D",
-    "nome": "HICKEY",
-    "squadra": "Bologna",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "D",
-    "nome": "DANILO",
-    "squadra": "Juventus",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "D",
-    "nome": "LAZZARI",
-    "squadra": "Lazio",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "D",
-    "nome": "ROMAGNOLI",
-    "squadra": "Milan",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "D",
-    "nome": "CECCARONI",
-    "squadra": "Venezia",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "D",
-    "nome": "MARTINEZ QUARTA",
-    "squadra": "Fiorentina",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "D",
-    "nome": "ACERBI",
-    "squadra": "Lazio",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "D",
-    "nome": "KALULU",
-    "squadra": "Milan",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "D",
-    "nome": "MANCINI",
-    "squadra": "Roma",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "D",
-    "nome": "CASALE",
-    "squadra": "Verona",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "D",
-    "nome": "VASQUEZ",
-    "squadra": "Genoa",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "D",
-    "nome": "PALOMINO",
-    "squadra": "Atalanta",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "DE VRIJ",
-    "squadra": "Inter",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "ALEX SANDRO",
-    "squadra": "Juventus",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "COLLEY",
-    "squadra": "Sampdoria",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "ROGERIO",
-    "squadra": "Sassuolo",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "TOLJAN",
-    "squadra": "Sassuolo",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "RODRIGO BECAO",
-    "squadra": "Udinese",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "ODRIOZOLA",
-    "squadra": "Fiorentina",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "CACERES",
-    "squadra": "Cagliari",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "D",
-    "nome": "DJIMSITI",
-    "squadra": "Atalanta",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "HATEBOER",
-    "squadra": "Atalanta",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "D'AMBROSIO",
-    "squadra": "Inter",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "HYSAJ",
-    "squadra": "Lazio",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "CALDARA",
-    "squadra": "Venezia",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "SPINAZZOLA",
-    "squadra": "Roma",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "BERESZYNSKI",
-    "squadra": "Sampdoria",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "CHIRICHES",
-    "squadra": "Sassuolo",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "SALA",
-    "squadra": "Spezia",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "AINA",
-    "squadra": "Torino",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "RODRIGUEZ R.",
-    "squadra": "Torino",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "SAMIR",
-    "squadra": "Udinese",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "UDOGIE",
-    "squadra": "Udinese",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "D",
-    "nome": "MAEHLE",
-    "squadra": "Atalanta",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "GODIN",
-    "squadra": "Cagliari",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "LYKOGIANNIS",
-    "squadra": "Cagliari",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "STOJANOVIC",
-    "squadra": "Empoli",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "GHIGLIONE",
-    "squadra": "Genoa",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "DEMIRAL",
-    "squadra": "Atalanta",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "LUIZ FELIPE",
-    "squadra": "Lazio",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "SMALLING",
-    "squadra": "Roma",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "FERRARI G.",
-    "squadra": "Sassuolo",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "VOJVODA",
-    "squadra": "Torino",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "MAZZOCCHI",
-    "squadra": "Venezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "MOLINARO",
-    "squadra": "Venezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "CECCHERINI",
-    "squadra": "Verona",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "DAWIDOWICZ",
-    "squadra": "Verona",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "GUNTER",
-    "squadra": "Verona",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "MAGNANI",
-    "squadra": "Verona",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "VINA",
-    "squadra": "Roma",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "RANIERI L.",
-    "squadra": "Salernitana",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "AMPADU",
-    "squadra": "Venezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "HAPS",
-    "squadra": "Venezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "D",
-    "nome": "BINKS",
-    "squadra": "Bologna",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "SOUMAORO",
-    "squadra": "Bologna",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "CARBONI",
-    "squadra": "Cagliari",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "DALBERT",
-    "squadra": "Cagliari",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "ZAPPA",
-    "squadra": "Cagliari",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "PARISI",
-    "squadra": "Empoli",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "MARUSIC",
-    "squadra": "Lazio",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "MANOLAS",
-    "squadra": "Napoli",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "FLORENZI",
-    "squadra": "Milan",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "GYOMBER",
-    "squadra": "Salernitana",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "STRANDBERG",
-    "squadra": "Salernitana",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "AYHAN",
-    "squadra": "Sassuolo",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "MARCHIZZA",
-    "squadra": "Empoli",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "AMIAN",
-    "squadra": "Spezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "ERLIC",
-    "squadra": "Spezia",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "BUONGIORNO",
-    "squadra": "Torino",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "DJIDJI",
-    "squadra": "Torino",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "STRYGER LARSEN",
-    "squadra": "Udinese",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "LOVATO",
-    "squadra": "Atalanta",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "KECHRIDA",
-    "squadra": "Salernitana",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "SOPPY",
-    "squadra": "Udinese",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "MAKSIMOVIC",
-    "squadra": "Genoa",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "GAGLIOLO",
-    "squadra": "Salernitana",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "D",
-    "nome": "SUTALO",
-    "squadra": "Verona",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "BONIFAZI",
-    "squadra": "Bologna",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "WALUKIEWICZ",
-    "squadra": "Cagliari",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "NIKOLAOU",
-    "squadra": "Spezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "ROMAGNOLI S.",
-    "squadra": "Empoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "IGOR",
-    "squadra": "Fiorentina",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "VENUTI",
-    "squadra": "Fiorentina",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "BANI",
-    "squadra": "Genoa",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "BIRASCHI",
-    "squadra": "Genoa",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "SABELLI",
-    "squadra": "Genoa",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "RANOCCHIA",
-    "squadra": "Inter",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "DE SCIGLIO",
-    "squadra": "Juventus",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "BALLO-TOURE'",
-    "squadra": "Milan",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "CALAFIORI",
-    "squadra": "Roma",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "ZORTEA",
-    "squadra": "Salernitana",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "KYRIAKOPOULOS",
-    "squadra": "Sassuolo",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "MULDUR",
-    "squadra": "Sassuolo",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "FERRER",
-    "squadra": "Spezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "HRISTOV",
-    "squadra": "Spezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "ISMAJLI",
-    "squadra": "Empoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "IZZO",
-    "squadra": "Torino",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "EBUEHI",
-    "squadra": "Venezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "MODOLO",
-    "squadra": "Venezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "SVOBODA",
-    "squadra": "Venezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "PEZZELLA GIU.",
-    "squadra": "Atalanta",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "JUAN JESUS",
-    "squadra": "Napoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "NASTASIC",
-    "squadra": "Fiorentina",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "PEREZ N.",
-    "squadra": "Udinese",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "ZIMA",
-    "squadra": "Torino",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "VITI",
-    "squadra": "Empoli",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "D",
-    "nome": "RUGGERI",
-    "squadra": "Salernitana",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "ALTARE",
-    "squadra": "Cagliari",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "FIAMOZZI",
-    "squadra": "Empoli",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "TERZIC",
-    "squadra": "Fiorentina",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "MASIELLO",
-    "squadra": "Genoa",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "VANHEUSDEN",
-    "squadra": "Genoa",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "PELLEGRINI LU.",
-    "squadra": "Juventus",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "RUGANI",
-    "squadra": "Juventus",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "PATRIC",
-    "squadra": "Lazio",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "GABBIA",
-    "squadra": "Milan",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "LUPERTO",
-    "squadra": "Empoli",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "KUMBULLA",
-    "squadra": "Roma",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "AYA",
-    "squadra": "Salernitana",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "BOGDAN",
-    "squadra": "Salernitana",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "JAROSZYNSKI",
-    "squadra": "Salernitana",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "CHABOT",
-    "squadra": "Sampdoria",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "DEPAOLI",
-    "squadra": "Sampdoria",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "MURRU",
-    "squadra": "Sampdoria",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "TONELLI",
-    "squadra": "Empoli",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "ZEEGELAAR",
-    "squadra": "Udinese",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "SCHNEGG",
-    "squadra": "Venezia",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "SERPE",
-    "squadra": "Genoa",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "SCALVINI",
-    "squadra": "Atalanta",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "BELLANOVA",
-    "squadra": "Cagliari",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "D",
-    "nome": "RECA",
-    "squadra": "Spezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "DIJKS",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "MBAYE",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "FARAGO'",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "RADOVANOVIC",
-    "squadra": "Genoa",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "KOLAROV",
-    "squadra": "Inter",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "DRAGUSIN",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "FRABOTTA",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "RADU",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "VAVRO",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "CONTI",
-    "squadra": "Milan",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "GHOULAM",
-    "squadra": "Napoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "MALCUIT",
-    "squadra": "Napoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "REYNOLDS",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "VESELI",
-    "squadra": "Salernitana",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "FERRARI A.",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "GOLDANIGA",
-    "squadra": "Sassuolo",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "PELUSO",
-    "squadra": "Sassuolo",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "ROMAGNA",
-    "squadra": "Sassuolo",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "DE MAIO",
-    "squadra": "Udinese",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "CETIN",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "RUEGG",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "ZANOLI",
-    "squadra": "Napoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "DELLI CARRI",
-    "squadra": "Salernitana",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "KIWIOR",
-    "squadra": "Spezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "D",
-    "nome": "OBERT",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "MILINKOVIC-SAVIC V.",
-    "squadra": "Torino",
-    "quotazione": 16
-  },
-  {
-    "ruolo": "P",
-    "nome": "MAIGNAN",
-    "squadra": "Milan",
-    "quotazione": 15
-  },
-  {
-    "ruolo": "P",
-    "nome": "OSPINA",
-    "squadra": "Napoli",
-    "quotazione": 14
-  },
-  {
-    "ruolo": "P",
-    "nome": "HANDANOVIC",
-    "squadra": "Inter",
-    "quotazione": 13
-  },
-  {
-    "ruolo": "P",
-    "nome": "MUSSO",
-    "squadra": "Atalanta",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "P",
-    "nome": "SZCZESNY",
-    "squadra": "Juventus",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "P",
-    "nome": "RUI PATRICIO",
-    "squadra": "Roma",
-    "quotazione": 12
-  },
-  {
-    "ruolo": "P",
-    "nome": "CONSIGLI",
-    "squadra": "Sassuolo",
-    "quotazione": 10
-  },
-  {
-    "ruolo": "P",
-    "nome": "VICARIO",
-    "squadra": "Empoli",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "P",
-    "nome": "DRAGOWSKI",
-    "squadra": "Fiorentina",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "P",
-    "nome": "TERRACCIANO",
-    "squadra": "Fiorentina",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "P",
-    "nome": "REINA",
-    "squadra": "Lazio",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "P",
-    "nome": "SILVESTRI",
-    "squadra": "Udinese",
-    "quotazione": 9
-  },
-  {
-    "ruolo": "P",
-    "nome": "TATARUSANU",
-    "squadra": "Milan",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "P",
-    "nome": "MERET",
-    "squadra": "Napoli",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "P",
-    "nome": "MONTIPO'",
-    "squadra": "Verona",
-    "quotazione": 8
-  },
-  {
-    "ruolo": "P",
-    "nome": "CRAGNO",
-    "squadra": "Cagliari",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "P",
-    "nome": "SIRIGU",
-    "squadra": "Genoa",
-    "quotazione": 7
-  },
-  {
-    "ruolo": "P",
-    "nome": "SKORUPSKI",
-    "squadra": "Bologna",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "P",
-    "nome": "ROMERO S.",
-    "squadra": "Venezia",
-    "quotazione": 6
-  },
-  {
-    "ruolo": "P",
-    "nome": "BELEC",
-    "squadra": "Salernitana",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "P",
-    "nome": "AUDERO",
-    "squadra": "Sampdoria",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "P",
-    "nome": "PROVEDEL",
-    "squadra": "Spezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "P",
-    "nome": "MAENPAA",
-    "squadra": "Venezia",
-    "quotazione": 5
-  },
-  {
-    "ruolo": "P",
-    "nome": "PERIN",
-    "squadra": "Juventus",
-    "quotazione": 4
-  },
-  {
-    "ruolo": "P",
-    "nome": "ZOET",
-    "squadra": "Spezia",
-    "quotazione": 3
-  },
-  {
-    "ruolo": "P",
-    "nome": "LEZZERINI",
-    "squadra": "Venezia",
-    "quotazione": 2
-  },
-  {
-    "ruolo": "P",
-    "nome": "ROSSI F.",
-    "squadra": "Atalanta",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "SPORTIELLO",
-    "squadra": "Atalanta",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "BARDI",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "ARESTI",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "RADUNOVIC",
-    "squadra": "Cagliari",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "FURLAN",
-    "squadra": "Empoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "ROSATI",
-    "squadra": "Fiorentina",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "ANDRENACCI",
-    "squadra": "Genoa",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "MARCHETTI",
-    "squadra": "Genoa",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "CORDAZ",
-    "squadra": "Inter",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "RADU I.",
-    "squadra": "Inter",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "PINSOGLIO",
-    "squadra": "Juventus",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "STRAKOSHA",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "PLIZZARI",
-    "squadra": "Milan",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "BOER",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "FUZATO",
-    "squadra": "Roma",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "FALCONE",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "RAVAGLIA",
-    "squadra": "Sampdoria",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "PEGOLO",
-    "squadra": "Sassuolo",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "BERISHA",
-    "squadra": "Torino",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "GEMELLO",
-    "squadra": "Torino",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "PADELLI",
-    "squadra": "Udinese",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "BERARDI A.",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "PANDUR",
-    "squadra": "Verona",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "ADAMONIS",
-    "squadra": "Lazio",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "FIORILLO",
-    "squadra": "Salernitana",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "SEMPER",
-    "squadra": "Genoa",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "MARFELLA",
-    "squadra": "Napoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "SATALINO",
-    "squadra": "Sassuolo",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "BERTINATO",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "ZOVKO",
-    "squadra": "Spezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "MOLLA",
-    "squadra": "Bologna",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "UJKANI",
-    "squadra": "Empoli",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "RUSSO",
-    "squadra": "Salernitana",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "PIANA",
-    "squadra": "Udinese",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "NERI",
-    "squadra": "Venezia",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "SANTURRO",
-    "squadra": "Udinese",
-    "quotazione": 1
-  },
-  {
-    "ruolo": "P",
-    "nome": "MIRANTE",
-    "squadra": "Milan",
-    "quotazione": 1
-  }
+ {
+  "ruolo": "P",
+  "nome": "Maignan",
+  "squadra": "Milan",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "P",
+  "nome": "Handanovic",
+  "squadra": "Inter",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "P",
+  "nome": "Szczesny",
+  "squadra": "Juventus",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "P",
+  "nome": "Meret",
+  "squadra": "Napoli",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "P",
+  "nome": "Rui Patricio",
+  "squadra": "Roma",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "P",
+  "nome": "Musso",
+  "squadra": "Atalanta",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "P",
+  "nome": "Gollini",
+  "squadra": "Fiorentina",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "P",
+  "nome": "Luis Maximiano",
+  "squadra": "Lazio",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "P",
+  "nome": "Skorupski",
+  "squadra": "Bologna",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "P",
+  "nome": "Berisha",
+  "squadra": "Torino",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "P",
+  "nome": "Consigli",
+  "squadra": "Sassuolo",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "P",
+  "nome": "Cragno",
+  "squadra": "Monza",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "P",
+  "nome": "Montipo'",
+  "squadra": "Verona",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "P",
+  "nome": "Audero",
+  "squadra": "Sampdoria",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "P",
+  "nome": "Silvestri",
+  "squadra": "Udinese",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "P",
+  "nome": "Vicario",
+  "squadra": "Empoli",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "P",
+  "nome": "Sepe",
+  "squadra": "Salernitana",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "P",
+  "nome": "Dragowski",
+  "squadra": "Spezia",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "P",
+  "nome": "Provedel",
+  "squadra": "Lazio",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "P",
+  "nome": "Radu I.",
+  "squadra": "Cremonese",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "P",
+  "nome": "Falcone",
+  "squadra": "Lecce",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "P",
+  "nome": "Sportiello",
+  "squadra": "Atalanta",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Mirante",
+  "squadra": "Milan",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Sarr M.",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Tatarusanu",
+  "squadra": "Milan",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Lamanna",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Perin",
+  "squadra": "Juventus",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Pegolo",
+  "squadra": "Sassuolo",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Perilli",
+  "squadra": "Verona",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Padelli",
+  "squadra": "Udinese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Perisan",
+  "squadra": "Empoli",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Bardi",
+  "squadra": "Bologna",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Cordaz",
+  "squadra": "Inter",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Pinsoglio",
+  "squadra": "Juventus",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Fiorillo",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Milinkovic-Savic V.",
+  "squadra": "Torino",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Sirigu",
+  "squadra": "Napoli",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Rossi F.",
+  "squadra": "Atalanta",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Rosati",
+  "squadra": "Fiorentina",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Terracciano",
+  "squadra": "Fiorentina",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Contini",
+  "squadra": "Sampdoria",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Brancolini",
+  "squadra": "Lecce",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Carnesecchi",
+  "squadra": "Atalanta",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Bleve",
+  "squadra": "Lecce",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Berardi A.",
+  "squadra": "Verona",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Russo A.",
+  "squadra": "Sassuolo",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Gemello",
+  "squadra": "Torino",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Ravaglia",
+  "squadra": "Sampdoria",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Zoet",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Boer",
+  "squadra": "Roma",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Adamonis",
+  "squadra": "Lazio",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Marfella",
+  "squadra": "Napoli",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Zovko",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Molla",
+  "squadra": "Bologna",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Piana",
+  "squadra": "Udinese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Bagnolini",
+  "squadra": "Bologna",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Onana",
+  "squadra": "Inter",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Svilar",
+  "squadra": "Roma",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Sorrentino A.",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Di Gregorio",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Ciezkowski",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Micai",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "P",
+  "nome": "Chiesa M.",
+  "squadra": "Verona",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Hernandez T.",
+  "squadra": "Milan",
+  "quotazione": 20
+ },
+ {
+  "ruolo": "D",
+  "nome": "Dumfries",
+  "squadra": "Inter",
+  "quotazione": 20
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gosens",
+  "squadra": "Inter",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bremer",
+  "squadra": "Juventus",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "D",
+  "nome": "Skriniar",
+  "squadra": "Inter",
+  "quotazione": 17
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bonucci",
+  "squadra": "Juventus",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bastoni",
+  "squadra": "Inter",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "D",
+  "nome": "Di Lorenzo",
+  "squadra": "Napoli",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "D",
+  "nome": "Tomori",
+  "squadra": "Milan",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "D",
+  "nome": "Smalling",
+  "squadra": "Roma",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "D",
+  "nome": "Rrahmani",
+  "squadra": "Napoli",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "D",
+  "nome": "Singo",
+  "squadra": "Torino",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kalulu",
+  "squadra": "Milan",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "D",
+  "nome": "Dodo'",
+  "squadra": "Fiorentina",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "D",
+  "nome": "Biraghi",
+  "squadra": "Fiorentina",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "D",
+  "nome": "Calabria",
+  "squadra": "Milan",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "D",
+  "nome": "Faraoni",
+  "squadra": "Verona",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "D",
+  "nome": "Demiral",
+  "squadra": "Atalanta",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "D",
+  "nome": "Udogie",
+  "squadra": "Udinese",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kim",
+  "squadra": "Napoli",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "D",
+  "nome": "Spinazzola",
+  "squadra": "Roma",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "D",
+  "nome": "Danilo",
+  "squadra": "Juventus",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bastoni S.",
+  "squadra": "Spezia",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "D",
+  "nome": "Romagnoli",
+  "squadra": "Lazio",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "D",
+  "nome": "Zappacosta",
+  "squadra": "Atalanta",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "D",
+  "nome": "Milenkovic",
+  "squadra": "Fiorentina",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "D",
+  "nome": "Mari'",
+  "squadra": "Monza",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "D",
+  "nome": "De Vrij",
+  "squadra": "Inter",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "D",
+  "nome": "Karsdorp",
+  "squadra": "Roma",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "D",
+  "nome": "Palomino",
+  "squadra": "Atalanta",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "D",
+  "nome": "Lazzari",
+  "squadra": "Lazio",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "D",
+  "nome": "Mancini",
+  "squadra": "Roma",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "D",
+  "nome": "Rodrigo Becao",
+  "squadra": "Udinese",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "D",
+  "nome": "Mario Rui",
+  "squadra": "Napoli",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "De Silvestri",
+  "squadra": "Bologna",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Hateboer",
+  "squadra": "Atalanta",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Darmian",
+  "squadra": "Inter",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Colley",
+  "squadra": "Sampdoria",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ibanez",
+  "squadra": "Roma",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Igor",
+  "squadra": "Fiorentina",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Erlic",
+  "squadra": "Sassuolo",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Vojvoda",
+  "squadra": "Torino",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Casale",
+  "squadra": "Lazio",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "Cambiaso",
+  "squadra": "Bologna",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "D",
+  "nome": "D'ambrosio",
+  "squadra": "Inter",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Dimarco",
+  "squadra": "Inter",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Acerbi",
+  "squadra": "Lazio",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Alex Sandro",
+  "squadra": "Juventus",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Toloi",
+  "squadra": "Atalanta",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ferrari G.",
+  "squadra": "Sassuolo",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bellanova",
+  "squadra": "Inter",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Maehle",
+  "squadra": "Atalanta",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Parisi",
+  "squadra": "Empoli",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Perez N.",
+  "squadra": "Udinese",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Carlos Augusto",
+  "squadra": "Monza",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "D",
+  "nome": "Juan Jesus",
+  "squadra": "Napoli",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Medel",
+  "squadra": "Bologna",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Florenzi",
+  "squadra": "Milan",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Djimsiti",
+  "squadra": "Atalanta",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Rodriguez R.",
+  "squadra": "Torino",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Marusic",
+  "squadra": "Lazio",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Nuytinck",
+  "squadra": "Udinese",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Marlon",
+  "squadra": "Monza",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Lazaro",
+  "squadra": "Torino",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Augello",
+  "squadra": "Sampdoria",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Celik",
+  "squadra": "Roma",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Stojanovic",
+  "squadra": "Empoli",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Mazzocchi",
+  "squadra": "Salernitana",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bradaric",
+  "squadra": "Salernitana",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Soppy",
+  "squadra": "Udinese",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ostigard",
+  "squadra": "Napoli",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Olivera",
+  "squadra": "Napoli",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Sambia",
+  "squadra": "Salernitana",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "D",
+  "nome": "Masina",
+  "squadra": "Udinese",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Hysaj",
+  "squadra": "Lazio",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ranocchia",
+  "squadra": "Monza",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "De Sciglio",
+  "squadra": "Juventus",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Caldara",
+  "squadra": "Spezia",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ceccherini",
+  "squadra": "Verona",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Fazio",
+  "squadra": "Salernitana",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bereszynski",
+  "squadra": "Sampdoria",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kyriakopoulos",
+  "squadra": "Sassuolo",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Lovato",
+  "squadra": "Salernitana",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Amian",
+  "squadra": "Spezia",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Vasquez",
+  "squadra": "Cremonese",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Scalvini",
+  "squadra": "Atalanta",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kiwior",
+  "squadra": "Spezia",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Doig",
+  "squadra": "Verona",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ferrari A.",
+  "squadra": "Sampdoria",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Radovanovic",
+  "squadra": "Salernitana",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ghiglione",
+  "squadra": "Cremonese",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Rugani",
+  "squadra": "Juventus",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Patric",
+  "squadra": "Lazio",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Luperto",
+  "squadra": "Empoli",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Sala",
+  "squadra": "Spezia",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Chiriches",
+  "squadra": "Cremonese",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Murru",
+  "squadra": "Sampdoria",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Rogerio",
+  "squadra": "Sassuolo",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kjaer",
+  "squadra": "Milan",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Pellegrini Lu.",
+  "squadra": "Juventus",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Reca",
+  "squadra": "Spezia",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gunter",
+  "squadra": "Verona",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Aina",
+  "squadra": "Torino",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Djidji",
+  "squadra": "Torino",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Toljan",
+  "squadra": "Sassuolo",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Okoli",
+  "squadra": "Atalanta",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Cetin",
+  "squadra": "Lecce",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Muldur",
+  "squadra": "Sassuolo",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Soumaoro",
+  "squadra": "Bologna",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Carboni",
+  "squadra": "Monza",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ayhan",
+  "squadra": "Sassuolo",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Zima",
+  "squadra": "Torino",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gatti",
+  "squadra": "Juventus",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bijol",
+  "squadra": "Udinese",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Valeri",
+  "squadra": "Cremonese",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Aiwu",
+  "squadra": "Cremonese",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bronn",
+  "squadra": "Salernitana",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "D",
+  "nome": "Marrone",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Dermaku",
+  "squadra": "Lecce",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bianchetti",
+  "squadra": "Cremonese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gyomber",
+  "squadra": "Salernitana",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Pereira P.",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Depaoli",
+  "squadra": "Sampdoria",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bonifazi",
+  "squadra": "Bologna",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Leverbe",
+  "squadra": "Sampdoria",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Donati",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Lykogiannis",
+  "squadra": "Bologna",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Buongiorno",
+  "squadra": "Torino",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Nikolaou",
+  "squadra": "Spezia",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Dawidowicz",
+  "squadra": "Verona",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kumbulla",
+  "squadra": "Roma",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Benkovic",
+  "squadra": "Udinese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Pirola",
+  "squadra": "Salernitana",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Frabotta",
+  "squadra": "Lecce",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Caldirola",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Martinez Quarta",
+  "squadra": "Fiorentina",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "De Winter",
+  "squadra": "Empoli",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gila",
+  "squadra": "Lazio",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gendrey",
+  "squadra": "Lecce",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ebosse",
+  "squadra": "Udinese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "D",
+  "nome": "Conti",
+  "squadra": "Sampdoria",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Izzo",
+  "squadra": "Torino",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Murillo",
+  "squadra": "Sampdoria",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Sampirisi",
+  "squadra": "Monza",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Venuti",
+  "squadra": "Fiorentina",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Hristov",
+  "squadra": "Spezia",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Dijks",
+  "squadra": "Bologna",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Magnani",
+  "squadra": "Verona",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Sernicola",
+  "squadra": "Cremonese",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Tuia",
+  "squadra": "Lecce",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ferrer",
+  "squadra": "Spezia",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ismajli",
+  "squadra": "Empoli",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ebuehi",
+  "squadra": "Empoli",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Vina",
+  "squadra": "Roma",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Zanoli",
+  "squadra": "Napoli",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ruan",
+  "squadra": "Sassuolo",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Cacace",
+  "squadra": "Empoli",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Birindelli",
+  "squadra": "Monza",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ravanelli",
+  "squadra": "Cremonese",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Quagliata",
+  "squadra": "Cremonese",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Lochoshvili",
+  "squadra": "Cremonese",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "D",
+  "nome": "Radu",
+  "squadra": "Lazio",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Paletta",
+  "squadra": "Monza",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Capradossi",
+  "squadra": "Spezia",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Marchizza",
+  "squadra": "Sassuolo",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Terzic",
+  "squadra": "Fiorentina",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Zortea",
+  "squadra": "Atalanta",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gallo",
+  "squadra": "Lecce",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Calafiori",
+  "squadra": "Roma",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ballo-Toure'",
+  "squadra": "Milan",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Amione",
+  "squadra": "Verona",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Holm",
+  "squadra": "Spezia",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Coppola D.",
+  "squadra": "Verona",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kasius",
+  "squadra": "Bologna",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Baschirotto",
+  "squadra": "Lecce",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ebosele",
+  "squadra": "Udinese",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "D",
+  "nome": "Mbaye",
+  "squadra": "Bologna",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Tonelli",
+  "squadra": "Empoli",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Veseli",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Jaroszynski",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Nastasic",
+  "squadra": "Fiorentina",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Retsos",
+  "squadra": "Verona",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bettella",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Gabbia",
+  "squadra": "Milan",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Vignali",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ruggeri",
+  "squadra": "Atalanta",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Antov",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Amey",
+  "squadra": "Bologna",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kamenovic",
+  "squadra": "Lazio",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Kechrida",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Zanotti",
+  "squadra": "Inter",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bertola",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Bayeye",
+  "squadra": "Torino",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Buta",
+  "squadra": "Udinese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Ndiaye",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "D",
+  "nome": "Fiordaliso",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Milinkovic-Savic",
+  "squadra": "Lazio",
+  "quotazione": 29
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pellegrini Lo.",
+  "squadra": "Roma",
+  "quotazione": 27
+ },
+ {
+  "ruolo": "C",
+  "nome": "Chiesa",
+  "squadra": "Juventus",
+  "quotazione": 25
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pogba",
+  "squadra": "Juventus",
+  "quotazione": 24
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pasalic",
+  "squadra": "Atalanta",
+  "quotazione": 22
+ },
+ {
+  "ruolo": "C",
+  "nome": "Barak",
+  "squadra": "Verona",
+  "quotazione": 22
+ },
+ {
+  "ruolo": "C",
+  "nome": "Malinovskyi",
+  "squadra": "Atalanta",
+  "quotazione": 22
+ },
+ {
+  "ruolo": "C",
+  "nome": "De Ketelaere",
+  "squadra": "Milan",
+  "quotazione": 21
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zaccagni",
+  "squadra": "Lazio",
+  "quotazione": 20
+ },
+ {
+  "ruolo": "C",
+  "nome": "Barella",
+  "squadra": "Inter",
+  "quotazione": 20
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zielinski",
+  "squadra": "Napoli",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "C",
+  "nome": "Felipe Anderson",
+  "squadra": "Lazio",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "C",
+  "nome": "Calhanoglu",
+  "squadra": "Inter",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zaniolo",
+  "squadra": "Roma",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ruiz",
+  "squadra": "Napoli",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pereyra",
+  "squadra": "Udinese",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "C",
+  "nome": "Luis Alberto",
+  "squadra": "Lazio",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "C",
+  "nome": "Traore' Hj.",
+  "squadra": "Sassuolo",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bajrami",
+  "squadra": "Empoli",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "C",
+  "nome": "Kvaratskhelia",
+  "squadra": "Napoli",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "C",
+  "nome": "Candreva",
+  "squadra": "Salernitana",
+  "quotazione": 17
+ },
+ {
+  "ruolo": "C",
+  "nome": "Wijnaldum",
+  "squadra": "Roma",
+  "quotazione": 17
+ },
+ {
+  "ruolo": "C",
+  "nome": "Mkhitaryan",
+  "squadra": "Inter",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "C",
+  "nome": "Frattesi",
+  "squadra": "Sassuolo",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "C",
+  "nome": "Tonali",
+  "squadra": "Milan",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "C",
+  "nome": "Brozovic",
+  "squadra": "Inter",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Politano",
+  "squadra": "Napoli",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Cuadrado",
+  "squadra": "Juventus",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Orsolini",
+  "squadra": "Bologna",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Kostic",
+  "squadra": "Juventus",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Koopmeiners",
+  "squadra": "Atalanta",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Vlasic",
+  "squadra": "Torino",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Sabiri",
+  "squadra": "Sampdoria",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bonaventura",
+  "squadra": "Fiorentina",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "C",
+  "nome": "Locatelli",
+  "squadra": "Juventus",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ikone'",
+  "squadra": "Fiorentina",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "C",
+  "nome": "Tameze",
+  "squadra": "Verona",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "C",
+  "nome": "Messias",
+  "squadra": "Milan",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "C",
+  "nome": "Lazovic",
+  "squadra": "Verona",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Verdi",
+  "squadra": "Torino",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Djuricic",
+  "squadra": "Sampdoria",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Lukic",
+  "squadra": "Torino",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pessina",
+  "squadra": "Monza",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Strefezza",
+  "squadra": "Lecce",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ilic",
+  "squadra": "Verona",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ederson D.s.",
+  "squadra": "Atalanta",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "C",
+  "nome": "Sensi",
+  "squadra": "Monza",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "C",
+  "nome": "Soriano",
+  "squadra": "Bologna",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "C",
+  "nome": "Saponara",
+  "squadra": "Fiorentina",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zambo Anguissa",
+  "squadra": "Napoli",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "C",
+  "nome": "Lobotka",
+  "squadra": "Napoli",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "C",
+  "nome": "Elmas",
+  "squadra": "Napoli",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "C",
+  "nome": "Diaz B.",
+  "squadra": "Milan",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "C",
+  "nome": "Mckennie",
+  "squadra": "Juventus",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zakaria",
+  "squadra": "Juventus",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bennacer",
+  "squadra": "Milan",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "C",
+  "nome": "Maggiore",
+  "squadra": "Spezia",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "C",
+  "nome": "Gyasi",
+  "squadra": "Spezia",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "C",
+  "nome": "Marcos Antonio",
+  "squadra": "Lazio",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "C",
+  "nome": "Cristante",
+  "squadra": "Roma",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Freuler",
+  "squadra": "Atalanta",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "El Shaarawy",
+  "squadra": "Roma",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Mandragora",
+  "squadra": "Fiorentina",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Castrovilli",
+  "squadra": "Fiorentina",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Agudelo",
+  "squadra": "Spezia",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Lopez M.",
+  "squadra": "Sassuolo",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pobega",
+  "squadra": "Milan",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Thorstvedt",
+  "squadra": "Sassuolo",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "C",
+  "nome": "Cataldi",
+  "squadra": "Lazio",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Gagliardini",
+  "squadra": "Inter",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Sottil",
+  "squadra": "Fiorentina",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zurkowski",
+  "squadra": "Fiorentina",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Schouten",
+  "squadra": "Bologna",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Henderson L.",
+  "squadra": "Empoli",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Amrabat",
+  "squadra": "Fiorentina",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Dominguez",
+  "squadra": "Bologna",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Saelemaekers",
+  "squadra": "Milan",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Miranchuk",
+  "squadra": "Torino",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Samardzic",
+  "squadra": "Udinese",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Makengo",
+  "squadra": "Udinese",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Asllani",
+  "squadra": "Inter",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "Vilhena",
+  "squadra": "Salernitana",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "C",
+  "nome": "De Roon",
+  "squadra": "Atalanta",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Krunic",
+  "squadra": "Milan",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Duncan",
+  "squadra": "Fiorentina",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Verre",
+  "squadra": "Sampdoria",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Barberis",
+  "squadra": "Monza",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Rabiot",
+  "squadra": "Juventus",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ekdal",
+  "squadra": "Spezia",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Walace",
+  "squadra": "Udinese",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Matic",
+  "squadra": "Roma",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Stulac",
+  "squadra": "Empoli",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Villar",
+  "squadra": "Sampdoria",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Marin",
+  "squadra": "Empoli",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Radonjic",
+  "squadra": "Torino",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Kovalenko",
+  "squadra": "Spezia",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zalewski",
+  "squadra": "Roma",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ricci S.",
+  "squadra": "Torino",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bohinen",
+  "squadra": "Salernitana",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Milanese",
+  "squadra": "Cremonese",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Adli",
+  "squadra": "Milan",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "C",
+  "nome": "Vecino",
+  "squadra": "Lazio",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Rincon",
+  "squadra": "Sampdoria",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Miguel Veloso",
+  "squadra": "Verona",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bandinelli",
+  "squadra": "Empoli",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ascacibar",
+  "squadra": "Cremonese",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Arslan",
+  "squadra": "Udinese",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Maleh",
+  "squadra": "Fiorentina",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Coulibaly L.",
+  "squadra": "Salernitana",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Matheus Henrique",
+  "squadra": "Sassuolo",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Lovric",
+  "squadra": "Udinese",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Hjulmand",
+  "squadra": "Lecce",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "C",
+  "nome": "Linetty",
+  "squadra": "Torino",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Kastanos",
+  "squadra": "Salernitana",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Valoti",
+  "squadra": "Monza",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Arthur",
+  "squadra": "Juventus",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Basic",
+  "squadra": "Lazio",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ferguson",
+  "squadra": "Bologna",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bistrovic",
+  "squadra": "Lecce",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "C",
+  "nome": "Machin",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Baez",
+  "squadra": "Cremonese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Molina S.",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bourabia",
+  "squadra": "Spezia",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Vieira",
+  "squadra": "Sampdoria",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Gaetano",
+  "squadra": "Napoli",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Demme",
+  "squadra": "Napoli",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Escalante",
+  "squadra": "Cremonese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Aebischer",
+  "squadra": "Bologna",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pickel",
+  "squadra": "Cremonese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Castagnetti",
+  "squadra": "Cremonese",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Colpani",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "C",
+  "nome": "Jajalo",
+  "squadra": "Udinese",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Benassi",
+  "squadra": "Fiorentina",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Mazzitelli",
+  "squadra": "Monza",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Vignato",
+  "squadra": "Bologna",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Haas",
+  "squadra": "Empoli",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Leris",
+  "squadra": "Sampdoria",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Rovella",
+  "squadra": "Juventus",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Fagioli",
+  "squadra": "Juventus",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Askildsen",
+  "squadra": "Lecce",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Hongla",
+  "squadra": "Verona",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Yepes",
+  "squadra": "Sampdoria",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ciurria",
+  "squadra": "Monza",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ilkhan",
+  "squadra": "Torino",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "C",
+  "nome": "Diawara",
+  "squadra": "Roma",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bakayoko",
+  "squadra": "Milan",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Valzania",
+  "squadra": "Cremonese",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Agoume",
+  "squadra": "Inter",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Obiang",
+  "squadra": "Sassuolo",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Maldini",
+  "squadra": "Spezia",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Cortinovis",
+  "squadra": "Verona",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Kornvig",
+  "squadra": "Spezia",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Romero L.",
+  "squadra": "Lazio",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Harroui",
+  "squadra": "Sassuolo",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ceide",
+  "squadra": "Sassuolo",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Miretti",
+  "squadra": "Juventus",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Blin",
+  "squadra": "Lecce",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Ranocchia F.",
+  "squadra": "Monza",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "Gonzalez J.",
+  "squadra": "Lecce",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "C",
+  "nome": "D'alessandro",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Capezzi",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Scozzarella",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bartolomei",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Darboe",
+  "squadra": "Roma",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bove",
+  "squadra": "Roma",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Cavion",
+  "squadra": "Salernitana",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Sher",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Nguiamba",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Volpato",
+  "squadra": "Roma",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Praszelik",
+  "squadra": "Verona",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Baldanzi",
+  "squadra": "Empoli",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Pafundi",
+  "squadra": "Udinese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Tenkorang",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bjorkengren",
+  "squadra": "Lecce",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Helgason",
+  "squadra": "Lecce",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Listkowski",
+  "squadra": "Lecce",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Vignato S.",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Casadei",
+  "squadra": "Inter",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Bondo",
+  "squadra": "Monza",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Samek",
+  "squadra": "Lecce",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "C",
+  "nome": "Zerbin",
+  "squadra": "Napoli",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Immobile",
+  "squadra": "Lazio",
+  "quotazione": 42
+ },
+ {
+  "ruolo": "A",
+  "nome": "Vlahovic",
+  "squadra": "Juventus",
+  "quotazione": 40
+ },
+ {
+  "ruolo": "A",
+  "nome": "Lukaku",
+  "squadra": "Inter",
+  "quotazione": 39
+ },
+ {
+  "ruolo": "A",
+  "nome": "Berardi",
+  "squadra": "Sassuolo",
+  "quotazione": 35
+ },
+ {
+  "ruolo": "A",
+  "nome": "Osimhen",
+  "squadra": "Napoli",
+  "quotazione": 35
+ },
+ {
+  "ruolo": "A",
+  "nome": "Martinez L.",
+  "squadra": "Inter",
+  "quotazione": 34
+ },
+ {
+  "ruolo": "A",
+  "nome": "Abraham",
+  "squadra": "Roma",
+  "quotazione": 33
+ },
+ {
+  "ruolo": "A",
+  "nome": "Zapata D.",
+  "squadra": "Atalanta",
+  "quotazione": 32
+ },
+ {
+  "ruolo": "A",
+  "nome": "Rafael Leao",
+  "squadra": "Milan",
+  "quotazione": 31
+ },
+ {
+  "ruolo": "A",
+  "nome": "Dybala",
+  "squadra": "Roma",
+  "quotazione": 29
+ },
+ {
+  "ruolo": "A",
+  "nome": "Giroud",
+  "squadra": "Milan",
+  "quotazione": 28
+ },
+ {
+  "ruolo": "A",
+  "nome": "Arnautovic",
+  "squadra": "Bologna",
+  "quotazione": 27
+ },
+ {
+  "ruolo": "A",
+  "nome": "Muriel",
+  "squadra": "Atalanta",
+  "quotazione": 26
+ },
+ {
+  "ruolo": "A",
+  "nome": "Caprari",
+  "squadra": "Monza",
+  "quotazione": 26
+ },
+ {
+  "ruolo": "A",
+  "nome": "Di Maria",
+  "squadra": "Juventus",
+  "quotazione": 26
+ },
+ {
+  "ruolo": "A",
+  "nome": "Simeone",
+  "squadra": "Verona",
+  "quotazione": 25
+ },
+ {
+  "ruolo": "A",
+  "nome": "Deulofeu",
+  "squadra": "Udinese",
+  "quotazione": 24
+ },
+ {
+  "ruolo": "A",
+  "nome": "Jovic",
+  "squadra": "Fiorentina",
+  "quotazione": 24
+ },
+ {
+  "ruolo": "A",
+  "nome": "Beto",
+  "squadra": "Udinese",
+  "quotazione": 24
+ },
+ {
+  "ruolo": "A",
+  "nome": "Pinamonti",
+  "squadra": "Sassuolo",
+  "quotazione": 23
+ },
+ {
+  "ruolo": "A",
+  "nome": "Sanabria",
+  "squadra": "Torino",
+  "quotazione": 21
+ },
+ {
+  "ruolo": "A",
+  "nome": "Caputo",
+  "squadra": "Sampdoria",
+  "quotazione": 21
+ },
+ {
+  "ruolo": "A",
+  "nome": "Gonzalez N.",
+  "squadra": "Fiorentina",
+  "quotazione": 20
+ },
+ {
+  "ruolo": "A",
+  "nome": "Raspadori",
+  "squadra": "Sassuolo",
+  "quotazione": 20
+ },
+ {
+  "ruolo": "A",
+  "nome": "Pedro",
+  "squadra": "Lazio",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "A",
+  "nome": "Cabral",
+  "squadra": "Fiorentina",
+  "quotazione": 19
+ },
+ {
+  "ruolo": "A",
+  "nome": "Verde",
+  "squadra": "Spezia",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "A",
+  "nome": "Destro",
+  "squadra": "Empoli",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "A",
+  "nome": "Lozano",
+  "squadra": "Napoli",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "A",
+  "nome": "Henry",
+  "squadra": "Verona",
+  "quotazione": 18
+ },
+ {
+  "ruolo": "A",
+  "nome": "Origi",
+  "squadra": "Milan",
+  "quotazione": 17
+ },
+ {
+  "ruolo": "A",
+  "nome": "Barrow",
+  "squadra": "Bologna",
+  "quotazione": 17
+ },
+ {
+  "ruolo": "A",
+  "nome": "Dessers",
+  "squadra": "Cremonese",
+  "quotazione": 17
+ },
+ {
+  "ruolo": "A",
+  "nome": "Correa",
+  "squadra": "Inter",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "A",
+  "nome": "Dzeko",
+  "squadra": "Inter",
+  "quotazione": 16
+ },
+ {
+  "ruolo": "A",
+  "nome": "Petagna",
+  "squadra": "Monza",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "A",
+  "nome": "Gabbiadini",
+  "squadra": "Sampdoria",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "A",
+  "nome": "Kean",
+  "squadra": "Juventus",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "A",
+  "nome": "Lammers",
+  "squadra": "Empoli",
+  "quotazione": 15
+ },
+ {
+  "ruolo": "A",
+  "nome": "Rebic",
+  "squadra": "Milan",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "A",
+  "nome": "Bonazzoli",
+  "squadra": "Salernitana",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "A",
+  "nome": "Nzola",
+  "squadra": "Spezia",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "A",
+  "nome": "Satriano",
+  "squadra": "Empoli",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "A",
+  "nome": "Alvarez A.",
+  "squadra": "Sassuolo",
+  "quotazione": 14
+ },
+ {
+  "ruolo": "A",
+  "nome": "Ibrahimovic",
+  "squadra": "Milan",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Boga",
+  "squadra": "Atalanta",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Piccoli",
+  "squadra": "Verona",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Lookman",
+  "squadra": "Atalanta",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Okereke",
+  "squadra": "Cremonese",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Success",
+  "squadra": "Udinese",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Botheim",
+  "squadra": "Salernitana",
+  "quotazione": 13
+ },
+ {
+  "ruolo": "A",
+  "nome": "Di Francesco F.",
+  "squadra": "Lecce",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "A",
+  "nome": "Pellegri",
+  "squadra": "Torino",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "A",
+  "nome": "Shomurodov",
+  "squadra": "Roma",
+  "quotazione": 12
+ },
+ {
+  "ruolo": "A",
+  "nome": "Lasagna",
+  "squadra": "Verona",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "A",
+  "nome": "Ilicic",
+  "squadra": "Atalanta",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "A",
+  "nome": "Nestorovski",
+  "squadra": "Udinese",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "A",
+  "nome": "Djuric",
+  "squadra": "Verona",
+  "quotazione": 11
+ },
+ {
+  "ruolo": "A",
+  "nome": "Quagliarella",
+  "squadra": "Sampdoria",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "A",
+  "nome": "Ceesay",
+  "squadra": "Lecce",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "A",
+  "nome": "Mota",
+  "squadra": "Monza",
+  "quotazione": 10
+ },
+ {
+  "ruolo": "A",
+  "nome": "Zanimacchia",
+  "squadra": "Cremonese",
+  "quotazione": 9
+ },
+ {
+  "ruolo": "A",
+  "nome": "Defrel",
+  "squadra": "Sassuolo",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "A",
+  "nome": "Afena-Gyan",
+  "squadra": "Roma",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "A",
+  "nome": "Tsadjout",
+  "squadra": "Cremonese",
+  "quotazione": 8
+ },
+ {
+  "ruolo": "A",
+  "nome": "Colombo",
+  "squadra": "Lecce",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "A",
+  "nome": "Cancellieri",
+  "squadra": "Lazio",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "A",
+  "nome": "Buonaiuto",
+  "squadra": "Cremonese",
+  "quotazione": 7
+ },
+ {
+  "ruolo": "A",
+  "nome": "Sansone",
+  "squadra": "Bologna",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "A",
+  "nome": "Cambiaghi",
+  "squadra": "Empoli",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "A",
+  "nome": "Strelec",
+  "squadra": "Spezia",
+  "quotazione": 6
+ },
+ {
+  "ruolo": "A",
+  "nome": "Zaza",
+  "squadra": "Torino",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "A",
+  "nome": "Ribery",
+  "squadra": "Salernitana",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "A",
+  "nome": "Di Mariano",
+  "squadra": "Lecce",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "A",
+  "nome": "Banda",
+  "squadra": "Lecce",
+  "quotazione": 5
+ },
+ {
+  "ruolo": "A",
+  "nome": "Ounas",
+  "squadra": "Napoli",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "A",
+  "nome": "De Luca",
+  "squadra": "Sampdoria",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "A",
+  "nome": "Gytkjaer",
+  "squadra": "Monza",
+  "quotazione": 4
+ },
+ {
+  "ruolo": "A",
+  "nome": "Antiste",
+  "squadra": "Spezia",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "A",
+  "nome": "Seck",
+  "squadra": "Torino",
+  "quotazione": 3
+ },
+ {
+  "ruolo": "A",
+  "nome": "Edera",
+  "squadra": "Torino",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "A",
+  "nome": "Valencia D.",
+  "squadra": "Salernitana",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "A",
+  "nome": "Strizzolo",
+  "squadra": "Cremonese",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "A",
+  "nome": "Rodriguez P.",
+  "squadra": "Lecce",
+  "quotazione": 2
+ },
+ {
+  "ruolo": "A",
+  "nome": "Ciofani D.",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Di Carmine",
+  "squadra": "Cremonese",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Moro",
+  "squadra": "Lazio",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Oddei",
+  "squadra": "Sassuolo",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Kokorin",
+  "squadra": "Fiorentina",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Kaio Jorge",
+  "squadra": "Juventus",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Podgoreanu",
+  "squadra": "Spezia",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Soule'",
+  "squadra": "Juventus",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Lazetic",
+  "squadra": "Milan",
+  "quotazione": 1
+ },
+ {
+  "ruolo": "A",
+  "nome": "Voelkerling Persson",
+  "squadra": "Lecce",
+  "quotazione": 1
+ }
 ]
